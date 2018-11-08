@@ -2,3 +2,6 @@ The rainbow blue
 green
 white
 red
+orange 
+blue
+These are the colors
